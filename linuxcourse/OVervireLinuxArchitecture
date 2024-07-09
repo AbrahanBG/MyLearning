@@ -1,0 +1,30 @@
+Five layers of linux
+
+1_User Interface
+    Allows Users to interact
+    GUI 
+2_Application
+    System daemosns
+    Shells
+    User Apps
+    Tools
+3_Operating System
+    Assigns software to User
+    Helps detect error and prevent failures
+4_Kernel
+    Perfor vital operation
+    Lowest level softwareStart on boot
+    Bridge betwwen apps and 5_Hardware
+5_Hardware
+
+Linux Files system:
+    Collection of files in machine
+    Begins a root directory(/)
+    Tree-liek structure
+    Assigns appropiate access rights
+
+/bin (binary files)
+/user(user program)
+/home (personal files)
+/boot (boot files)
+

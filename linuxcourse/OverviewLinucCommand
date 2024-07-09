@@ -1,0 +1,34 @@
+Getting Information
+    whoami - username
+    id - user ID and group ID
+    uname - operating system name
+    ps - running process
+    top - resource usage
+    df - mounted file systrems
+    man - reference manual
+    date -today date
+
+working with files
+    cp - copy file
+    mv - change file name path
+    rm - remove file
+    touch - create empty file, update file timestamp
+    chmod - change/modify file permissions
+    wc - get count of lines, words, characters in file
+    grep - return lines in file matching pattern
+
+navigating in directories
+    ls -list files and directories
+    find - find files in directories tree
+    pwd - get present working directory
+    mkdir - make directory
+    cd *change direction
+    rmdir -  remove directory
+
+print file
+    cat - print file contents
+    more - print file content page by page
+    head print N line of file
+    tail - print last N lines of file
+    echo - print string or variable value
+

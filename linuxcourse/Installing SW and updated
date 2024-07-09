@@ -1,0 +1,20 @@
+packages
+    Archive files
+    Installing new SW op update existing
+
+packages manegaer
+    mange to download and installation packages
+    available for differetn linux distros
+
+Deb and rpm paclages
+    package for linux OS
+    distinc file types for different linusx OSs
+    deb files:
+        Fopr debian bases DEbian Ubuntu and Mint
+        deb stans for DEbia
+    rpm fioles:
+        For red hat
+
+
+apt: Linea de comandos para actualizar sistemas de linux basado en deb 
+yum: Comman line para actualizar rpm systems
